@@ -12,7 +12,7 @@ https://johnnynu.github.io/pathfinding-visualizer/
 
 ## Features
 
-```python
+```javascript
 Pathfinding Algorithms:
   Depth First Search
   Breadth First Search
@@ -24,6 +24,12 @@ The Board:
   Clear path
   Clear board
 ```
+
+## Todo's
+- Add bomb node
+- Add A* and Greedy Best Seach
+- Moveable path animation
+- Bidirectional search
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
